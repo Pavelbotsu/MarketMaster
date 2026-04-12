@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkON7gwDjOU=",
+  "success": true,
+  "projectFilePath": "D:\\MarketMaster\\MarketMaster\\src\\Web\\TenantAdmin.UI\\MarketMaker.TenantAdmin.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp855\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

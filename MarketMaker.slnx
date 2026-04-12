@@ -10,4 +10,8 @@
   <Folder Name="/src/Services/MigrationWorker/">
     <Project Path="src/Services/MigrationWorker/MarketMaker.MigrationWorker.csproj" />
   </Folder>
+  <Folder Name="/src/Web/" />
+  <Folder Name="/src/Web/TenantAdmin.UI/">
+    <Project Path="src/Web/TenantAdmin.UI/MarketMaker.TenantAdmin.UI.csproj" />
+  </Folder>
 </Solution>
