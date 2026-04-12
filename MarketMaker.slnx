@@ -7,4 +7,7 @@
     <Project Path="src/Services/Catalog/Catalog.Domain/Catalog.Domain.csproj" />
     <Project Path="src/Services/Catalog/Catalog.Infrastructure/Catalog.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/src/Services/MigrationWorker/">
+    <Project Path="src/Services/MigrationWorker/MarketMaker.MigrationWorker.csproj" />
+  </Folder>
 </Solution>
